@@ -1,0 +1,7 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{
+     background-color:radial-gradient(125%_125%_at_100%_0%,#fff_5%,#63e_100%) ;
+}
